@@ -1,6 +1,6 @@
 # DFS
 
-##### Tree 탐색
+<details><summary> Tree 탐색 예제 코드</summary>
 
 ```c
 #define LEN_STACK   128
@@ -123,8 +123,12 @@ int main()
     return 0;
 }
 ```
+</details>
 
-##### Grid 탐색
+<p>
+
+<details> <summary> Grid 탐색 예제 코드</summary>
 ```
 
 ```
+</details>
